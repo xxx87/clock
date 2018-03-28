@@ -37,7 +37,7 @@ body {
     width:50%;
     height:6px;
     background:black;
-    position: absolute;
+    position: absolute;    
     top:50%;
     transform-origin: 100%;
     transform: rotate(90deg);
